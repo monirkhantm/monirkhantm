@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/monirtm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monirtm" height="30" width="40" /></a>
 <a href="https://instagram.com/monirtm22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monirtm22" height="30" width="40" /></a>
 <a href="https://medium.com/@monirtm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@monirtm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/monir10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="monir10" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@monirtips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@monirtips" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
